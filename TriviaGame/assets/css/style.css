@@ -1,0 +1,20 @@
+.container {
+    border: 1px, solid, black;
+    color: grey;
+}
+
+body {
+    background-color: #171A71;
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.q1,.q2,.q3,.q4, .q5,.q6 {
+    background-color: white;
+}
+
+.timer {
+    color: orange;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Press Start 2P', cursive;
+}
